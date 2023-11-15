@@ -1,7 +1,14 @@
+C:\Dev\Tienda_V3\tienda_v3\src\main\java\com\tienda\controller\ProductoController.java
 C:\Dev\Tienda_V3\tienda_v3\src\main\java\com\tienda\service\CategoriaService.java
-C:\Dev\Tienda_V3\tienda_v3\src\main\java\com\tienda\domain\Categoria.java
 C:\Dev\Tienda_V3\tienda_v3\src\main\java\com\tienda\controller\CategoriaController.java
 C:\Dev\Tienda_V3\tienda_v3\src\main\java\com\tienda\ProjectConfig.java
+C:\Dev\Tienda_V3\tienda_v3\src\main\java\com\tienda\service\FirebaseStorageService.java
+C:\Dev\Tienda_V3\tienda_v3\src\main\java\com\tienda\domain\Producto.java
+C:\Dev\Tienda_V3\tienda_v3\src\main\java\com\tienda\service\impl\FirebaseStorageServiceImpl.java
+C:\Dev\Tienda_V3\tienda_v3\src\main\java\com\tienda\domain\Categoria.java
+C:\Dev\Tienda_V3\tienda_v3\src\main\java\com\tienda\service\ProductoService.java
 C:\Dev\Tienda_V3\tienda_v3\src\main\java\com\tienda\TiendaApplication.java
+C:\Dev\Tienda_V3\tienda_v3\src\main\java\com\tienda\dao\ProductoDao.java
 C:\Dev\Tienda_V3\tienda_v3\src\main\java\com\tienda\service\impl\CategoriaServiceImpl.java
+C:\Dev\Tienda_V3\tienda_v3\src\main\java\com\tienda\service\impl\ProductoServiceImpl.java
 C:\Dev\Tienda_V3\tienda_v3\src\main\java\com\tienda\dao\CategoriaDao.java
